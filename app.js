@@ -9,7 +9,7 @@ var know = {
 "education":"schemes are Eklavya Model Residential Schools, National Fellowship,Scholarship for Higher Education"
 "economic":"Schemes are Tribal Sub Plan (TSP),Pradhan Mantri Van Dhan Yojana, Institutional Support For Development And Marketing Of Tribal Products",
 "health care":"Schemes are Tribal Sub Plan (TSP), Pradhan Mantri Van Dhan Yojana, Institutional Support For Development And Marketing Of Tribal Products",
-"trible welfare":"The government has implemented various policies and programs aimed at promoting tribal welfare"	
+"tribal welfare":"The government has implemented various policies and programs aimed at promoting tribal welfare"	
 };
 
 
