@@ -15,7 +15,9 @@ searchBtn.addEventListener("click", () => {
     url = "healthcare.html?q=" + encodedQuery;
   } else if (query === "economic") {
     url = "economic.html?q=" + encodedQuery;
-  } else {
+  }else if (query === "tribal welfare") {
+    url = "index.html?q=" + encodedQuery;}
+  else {
     url = "index.html?q=" + encodedQuery;
   }
   
