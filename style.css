@@ -6,14 +6,13 @@ overflow-x: hidden;
   
 } h1{color:#990011FF;font-family:Times New Roman;}h3{color:#2F3C7E;}
 h2{color:#317773;}
-.mainhead li{float:left; margin-left:20px;}
-.mainhead img{
 
-float:right;
-}
 
 .mainbar{//background-image:url("https://www.shutterstock.com/image-vector/vector-golden-complex-geometric-seamless-260nw-763057090.jpg");
 position:fixed;
+align-items: center;
+    justify-content: space-between;
+    display: inline-flex;
 width:100%;
 background-color:#CBD18F;
 top: 0;
