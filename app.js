@@ -9,8 +9,10 @@ var know = {
 
 "Bye" : "Okay! Will meet soon..",
 "schemes":"related to education, Economic, health care",
-education:"schemes are Eklavya Model Residential Schools, National Fellowship,Scholarship for Higher Education"
-
+"education":"schemes are Eklavya Model Residential Schools, National Fellowship,Scholarship for Higher Education"
+"economic":"Schemes are Tribal Sub Plan (TSP),Pradhan Mantri Van Dhan Yojana, Institutional Support For Development And Marketing Of Tribal Products",
+"health care":"Schemes are Tribal Sub Plan (TSP), Pradhan Mantri Van Dhan Yojana, Institutional Support For Development And Marketing Of Tribal Products"
+	
 };
 
 
