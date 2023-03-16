@@ -7,16 +7,26 @@ overflow-x: hidden;
 } h1{color:#990011FF;font-family:Times New Roman;}h3{color:#2F3C7E;}
 h2{color:#317773;}
 
+.mainbar {
+    vertical-align: middle;
+    background-color: #022534;
+    padding: 0;
+    margin: 0;
+    height: auto;
 
-.mainbar{//background-image:url("https://www.shutterstock.com/image-vector/vector-golden-complex-geometric-seamless-260nw-763057090.jpg");
-position:fixed;
-align-items: center;
+}
+
+.mainbar li {
+    align-items: center;
     justify-content: space-between;
     display: inline-flex;
-width:100%;
-background-color:#CBD18F;
-top: 0;
+    padding: 10px 5px;
+    background-color: #CBD18F;
+    font-size: 25px;
+    margin: auto;
 }
+
+
 
 
 ul {
