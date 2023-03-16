@@ -1,13 +1,11 @@
 <style>
-body{margin-top:20%;
+body{
+  margin-top:20%;
 overflow-x: hidden;
   
 } h1{color:#990011FF;font-family: cursive;}h3{color:#2F3C7E;}
 h2{color:#317773;}
-#mainhead{
 
-
-}
 
 .mainbar{//background-image:url("https://www.shutterstock.com/image-vector/vector-golden-complex-geometric-seamless-260nw-763057090.jpg");
 position:fixed;
