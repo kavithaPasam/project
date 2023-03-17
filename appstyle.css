@@ -20,11 +20,8 @@ box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
 transition: transform 0.5s;
 }
 
-#chatLog{font-family: monospace;padding:5px;font-size:14px;}
-.input {
-width: 200px;
-height: 100px;
-}
+#chatLog{font-family: monospace;padding:5px;font-size:14px; background-color:#5A5EB9; margin:5px;border-radius:20px; margin-top:70px;}
+
 
 .input input {margin:10px;
 width:200px;
@@ -37,17 +34,6 @@ font-size: 20px;
 border-radius: 20px;
 }
 
-.chat-submit {  
-  position:absolute;
-  bottom:3px;
-  right:10px;
-  background: transparent;
-  box-shadow:none;
-  border:none;
-  border-radius:50%;
-  color:#5A5EB9;
-  width:35px;
-  height:35px;  
-}
-.glass h1,h2,p{font-size:18px;font-family: sans-serif;padding:10px;
+
+.glass h1,h2,p{font-size:18px;font-family: sans-serif;
 }
