@@ -1,12 +1,5 @@
 <style>
 
-body{
- 
-overflow-x: hidden;
-  
-} h1{color:#990011FF;font-family:Times New Roman;}h3{color:#2F3C7E;}
-h2{color:#317773;}
-
 .mainbar {
     vertical-align: middle;
     background-color: #CBD18F ;
@@ -15,10 +8,19 @@ h2{color:#317773;}
    
 
 }
-.mainbar img{float:right; }
+@media screen and (max-width: 500px) {
+  .mainbar table {
+	  
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
 
-.mainbar li {
-    align-items: center;
+.mainbar th  {
+	margin-left:20px ;margin-right:20px ;
+   align-items: center;
     justify-content: space-between;
     display: inline-flex;
    
