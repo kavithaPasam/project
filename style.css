@@ -6,7 +6,7 @@ overflow-x: hidden;
   
 } h1{color:#990011FF;font-family:Times New Roman;}h3{color:#2F3C7E;}
 h2{color:#317773;}
-.mainbar img{float:right;}
+
 .mainbar {
     vertical-align: middle;
     background-color: #CBD18F ;
@@ -15,6 +15,7 @@ h2{color:#317773;}
    
 
 }
+.mainbar img{float:right; }
 
 .mainbar li {
     align-items: center;
@@ -24,9 +25,6 @@ h2{color:#317773;}
     background-color: #CBD18F;
  
 }
-
-
-
 
 ul {
   list-style-type: none;
