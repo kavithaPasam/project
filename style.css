@@ -6,7 +6,7 @@ overflow-x: hidden;
   
 } h1{color:#990011FF;font-family:Times New Roman;}h3{color:#2F3C7E;}
 h2{color:#317773;}
-
+.mainbar img{float:right;}
 .mainbar {
     vertical-align: middle;
     background-color: #CBD18F ;
