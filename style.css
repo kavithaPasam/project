@@ -15,7 +15,7 @@ h2{color:#317773;}
    
 
 }
-
+.mainbar ul{ display: inline-block;}
 .mainbar li {
     align-items: center;
     justify-content: space-between;
