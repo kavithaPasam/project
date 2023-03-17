@@ -14,11 +14,11 @@
     float: none;
     display: block;
     width: 100%;
-    text-align: left;
+    
   }
 }
 
-.mainbar th  {padding:10px;
+.mainbar th  {
 	margin-left:20px ;margin-right:20px ;
    align-items: center;
     justify-content: space-between;
