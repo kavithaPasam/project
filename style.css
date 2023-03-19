@@ -1,30 +1,5 @@
 <style>
-.mainbar {
-    vertical-align: middle;
-    background-color: #CBD18F ;
-    padding: 0;
-    margin: 0;
-   
-
-}
-@media screen and (max-width: 500px) {
-  .mainbar table {
-	  
-    float: none;
-    display: block;
-    width: 100%;
-    
-  }
-}
-.mainbar tr{text-align: center;}
-.mainbar th{
-	margin-left:20px ;margin-right:20px ;
-   align-items: center;
-    justify-content: space-between;
-    display: inline-flex;
-    background-color: #CBD18F;
- 
-}
+th{padding:5px;}
  h1{color:#990011FF;font-family: Foobar Pro;}h3{color:#2F3C7E;}
 h2{color:#317773;}
 
